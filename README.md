@@ -1,4 +1,4 @@
-  <p><strong>Erick Wendel G. S.</strong>
+  <p><strong>Erick Wendel G. Silva</strong>
       <br />MCP | MSP | MS
       <br />
       <a href=http://bit.ly/20Fxh1R target=_blank title=Comunidade><img src=http://bit.ly/1SryUzi></a>
